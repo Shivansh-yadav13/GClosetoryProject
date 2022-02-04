@@ -1,0 +1,16 @@
+.cat-div {
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 5rem;
+    justify-content: space-evenly;
+}
+
+.cat-box {
+    border: 1px solid var(--border-color);
+    /* background-image: url("../../Assets/img/tops.jpg"); */
+    background-color: tomato;
+    border-radius: 20px;
+    text-align: center;
+    width: 35rem;
+    height: 20rem;
+}

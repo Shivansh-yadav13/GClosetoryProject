@@ -1,0 +1,12 @@
+[
+    {
+        "text": "Top",
+        "img": "../../Assets/img/tops.jpg",
+        "route": ""
+    },
+    {
+        "text": "Bottom",
+        "img": "../../Assets/img/tops.jpg",
+        "route": ""
+    }
+]

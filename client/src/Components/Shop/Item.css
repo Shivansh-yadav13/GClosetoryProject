@@ -1,0 +1,15 @@
+.item__container {
+  margin-top: 2rem;
+}
+
+.item {
+  display: flex;
+  justify-content: space-evenly;
+  row-gap: 10rem;
+  text-align: right;
+}
+
+.item img {
+  width: 20rem;
+  border-radius: 20px;
+}
